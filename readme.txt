@@ -1,0 +1,1 @@
+ini adalah readme atau commit pertama di master
